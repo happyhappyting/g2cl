@@ -208,7 +208,7 @@ const vocabData = {
         { word: "悠闲", pinyin: "yōu xián", meaning: "leisurely; carefree" },
         { word: "一辈子", pinyin: "yī bèi zi", meaning: "a lifetime; one's whole life" },
         { word: "奉献", pinyin: "fèng xiàn", meaning: "dedicate; devote" }
-    ]
+    ],
 
 "Level 2": [
     { word: "教训", pinyin: "jiào xun", meaning: "lesson; to lecture somebody" },
@@ -422,7 +422,7 @@ const vocabData = {
     { word: "免疫", pinyin: "miǎn yì", meaning: "immune; immunity" },
     { word: "凝聚力", pinyin: "níng jù lì", meaning: "cohesion" },
     { word: "辨别", pinyin: "biàn bié", meaning: "to distinguish; differentiate" }
-]
+],
 
 "Level 3": [
     { word: "良好", pinyin: "liáng hǎo", meaning: "good" },
@@ -654,7 +654,7 @@ const vocabData = {
     { word: "介意", pinyin: "jiè yì", meaning: "to mind; to care about" },
 
     { word: "前所未有", pinyin: "qián suǒ wèi yǒu", meaning: "unprecedented" }
-]
+],
 
 "Level 4": [
     { word: "观察", pinyin: "guān chá", meaning: "to observe" },
